@@ -3,7 +3,7 @@
 >Info:
 
 You aren't living life if you haven't experienced surround sound 4k 144htz Minecraft E-Sex
->Features:
+> - Features:
 
 >Coming Soon:
 - This plugin!
