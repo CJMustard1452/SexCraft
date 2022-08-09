@@ -6,7 +6,8 @@ You aren't living life if you haven't experienced surround sound 4k 144htz Minec
 - Fetures:
 
 - Coming Soon:
-- This plugin!
+
+1. This plugin!
 
 
 
