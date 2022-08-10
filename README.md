@@ -7,11 +7,10 @@
 
 ## [Installation]:
 
-- mark things
-  
-## [Information]:
+<p align="center">
+<img width="800" align="center" src="https://im.ezgif.com/tmp/ezgif-1-88819871e8.gif" alt="demo"/>
+</p>
 
-You aren't living life if you haven't experienced surround sound 4k 144htz Minecraft E-Sex
 ## [Features]:
 - Amazing REAL visual sex!
 
@@ -24,6 +23,11 @@ You aren't living life if you haven't experienced surround sound 4k 144htz Minec
   <img width="500" align="center" src="https://im.ezgif.com/tmp/ezgif-1-b46873a483.gif" alt="demo"/>
 </p>
 
+## [Credits]:
+- CJMustard1452
+- CyberVirusXD
+
+> You aren't living life if you haven't experienced surround sound 4k 144htz Minecraft E-Sex
 
 
 
