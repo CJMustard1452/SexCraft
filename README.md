@@ -1,4 +1,4 @@
-# SexCraft
+<h1 align="center">SexCraft</h1>
 
 >Information:
 
