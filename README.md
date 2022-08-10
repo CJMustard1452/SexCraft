@@ -18,7 +18,7 @@ You aren't living life if you haven't experienced surround sound 4k 144htz Minec
 
 ## Demo:
 
-  <img width="300" align="center" src="https://im.ezgif.com/tmp/ezgif-1-ba317657a1.gif" alt="demo"/>
+  <img width="300" align="center" src="https://im.ezgif.com/tmp/ezgif-1-b46873a483.gif" alt="demo"/>
 </p>
 
 
