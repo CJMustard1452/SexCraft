@@ -6,17 +6,17 @@
   <img src="https://img.shields.io/badge/Downloads-0-brightgreen" />
 
   
-## Information:
+## [Information]:
 
 You aren't living life if you haven't experienced surround sound 4k 144htz Minecraft E-Sex
-## Features:
+## [Features]:
 - Amazing REAL visual sex!
-- Someone who will actually have sex with you! (fucking nerd)
 
-## Coming Soon:
+## [Coming Soon]:
 - This plugin!
 
-## Demo:
+## [Preview]:
+> `SexCraft` Grants you someone who will actually have sex with you! (fucking nerd)
 <p align="center">
   <img width="500" align="center" src="https://im.ezgif.com/tmp/ezgif-1-b46873a483.gif" alt="demo"/>
 </p>
