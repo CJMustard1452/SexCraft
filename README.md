@@ -8,7 +8,7 @@
 ## Installation
 
 <p align="center">
-<img width="800" align="center" src="https://im.ezgif.com/tmp/ezgif-1-88819871e8.gif" alt="demo"/>
+<img width="600" align="center" src="https://cdn.discordapp.com/attachments/983475255936946176/1007127283259154432/SexCraftInstall.gif" alt="demo"/>
 </p>
 
 ## Details
@@ -24,11 +24,7 @@
 - Version:
 
 You MUST be running [PocketMine-MP v4+](https://www.pocketmine.net) to use `SexCraft` properly.
-## Preview
-> `SexCraft` Grants you someone who will actually have sex with you! (fucking nerd)
-<p align="center">
-  <img width="500" align="center" src="https://im.ezgif.com/tmp/ezgif-1-b46873a483.gif" alt="demo"/>
-</p>
+
 
 ## Credits
 - [CJMustard1452](https://github.com/CJMustard1452)
